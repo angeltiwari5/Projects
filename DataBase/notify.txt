@@ -1,0 +1,9 @@
+EMPLOYEE_ID,NOTE,READ
+asa_002,You have been rated by a superior & ur rating is 68,1
+asa_002,You have been rated by a superior & ur rating is 85,1
+asa_004,Please update your profile,1
+asa_009,Please update your profile,1
+asa_010,Please update your profile,1
+asa_010,You have been alloted a task of task_id task1 by superior msd_001,1
+asa_010,You have been rated by a superior & ur rating is 67,1
+asa_002,You have been rated by your superior,1

@@ -1,0 +1,6 @@
+EMPLOYEE_ID,TASK_ID,SELF_RATE,SUPERIOR_RATE
+asa_002,task_002,52,45
+asa_002,task_003,73,49
+asa_003,task_001,54,85
+asa_002,task_002,0,45
+asa_010,task1,0,67

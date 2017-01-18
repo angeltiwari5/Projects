@@ -1,0 +1,10 @@
+EMPLOYEE_ID,SUPERIOR_ID
+user_002,msd_001
+user_004,msd_002
+user_003,msd_001
+user_009,msd_003
+user_008,msd_002
+user_010,msd_009
+user_005,msd_001
+user_006,msd_10
+user_007,msd_001

@@ -1,0 +1,11 @@
+EMPLOYEE_ID,NAME,DOB,GENDER,EMAIL_ID,CITY,PORTFOLIO
+user_001,Swati Munda,19-June-1994,Female,swatimunda@iiita.ac.in,Gwalior,Chairman
+user_002,Shweta Choudhary,5-March-1994,Female,avv@iiita.ac.in,Ghaziabad,MD
+user_003,Piyush Tiwari,14-Aug-1993,Male,piyush@iiita.ac.in,Kanpur,General Manager
+user_004,Yash Awasthi,10-June-1993,Male,yash@iiita.ac.in,Kanpur,MD
+user_005,Deepanshu,27-July-1993,Male,deep@iiita.ac.in,Kanpur,Employee
+user_006,Himanshu Saluja,16-May-1993,Male,saluja@iiita.ac.in,Gurgaon,Employee
+user_007,Shreya Pal,03-Jan-1993,Female,golu@iiita.ac.in,Lucknow,Employee
+user_008,Shishir,03-April-1993,Male,shishira@iiita.ac.in,Muzzafarnagar,General Manager
+user_009,Arpit Jain,17-June-1995,Male,arpit@iiita.ac.in,Ghaziabad,Project Manager
+user_010,Oshin Gupta,23-August-1993,Female,aaloo@iiita.ac.in,Delhi,Project Manager
